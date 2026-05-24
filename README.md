@@ -1,4 +1,6 @@
-# Sam — Director and Software Developer at Solaris Software
+# Hi, I'm Sam
+
+**Director and Software Developer at Solaris Software**
 
 I develop **research-informed software systems** combining:
 
