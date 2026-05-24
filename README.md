@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sam — Director and Software Developer at Solaris Software
 
-<!--
-**samfrahm/samfrahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop **research-informed software systems** combining:
 
-Here are some ideas to get you started:
+- Artificial intelligence
+- Systems programming
+- Web development
+- Psychology-informed design & architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests sit across **computer science**, **learning psychology**, **individual differences**, and **cognition**, with a particular focus on operating systems, artificial intelligence, and the overlap between psychology and computer science.
+
+Through **Solaris Software**, I develop and integrate software that helps businesses, and the individuals within them, operate more effectively.
+
+My current work focuses on the commercial and scientific applications of artificial intelligence as its capabilities continue to advance.
+
+## Interested in working together?
+
+If you are interested in research-informed software systems, applied artificial intelligence, or software that helps businesses operate more effectively, reach me at **sam@solaris.software**.
+
+---
+
+> “We’re responsible for stretching machines, setting them off in new directions, and keeping fun in the house.”  
+> — Alan J. Perlis
