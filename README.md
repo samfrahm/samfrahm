@@ -13,7 +13,7 @@ My interests sit across **computer science**, **learning psychology**, **individ
 
 Through **Solaris Software**, I develop and integrate software that helps businesses, and the individuals within them, operate more effectively.
 
-My current work focuses on the commercial and scientific applications of artificial intelligence as its capabilities continue to advance.
+There is significant potential in the advancing capabilities of artificial intelligence, and my current work focuses on both its commercial and scientific applications.
 
 ## Interested in working together?
 
