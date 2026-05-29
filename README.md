@@ -1,6 +1,6 @@
-# Hi, I'm Sam
+# Introduction
 
-**Director and Software Developer at Solaris Software**
+Hi, I'm Sam, 
 
 I develop **research-informed software systems** combining:
 
